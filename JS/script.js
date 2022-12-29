@@ -1,4 +1,4 @@
-//war
+
 $(document).ready(function () {
   
   var today = dayjs();
